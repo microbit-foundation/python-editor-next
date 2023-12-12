@@ -68,7 +68,7 @@ const CompassModule = ({
             <Icon
               ref={ref}
               as={CompassHeadingIcon}
-              color="blimpTeal.400"
+              color="brand2.500"
               boxSize="20"
             />
           </HStack>
